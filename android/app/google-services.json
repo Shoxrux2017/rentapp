@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082345133026",
+    "project_id": "rentapp-59b36",
+    "storage_bucket": "rentapp-59b36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082345133026:android:09eb5be6a24f4a23d9dfbb",
+        "android_client_info": {
+          "package_name": "com.example.rentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZf8Gk6-JPTuF9Wb2eFvSilns78wxCsnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
